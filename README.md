@@ -1,6 +1,6 @@
 # Python Review
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/2022-fall-comp-525/python_review)
-Click the open in Gitpod button above to launch a development environment
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/2022-fall-comp-525/python_review)  
+^-- Click the open in Gitpod button above to launch a development environment
 with Python already installed and ready to go! 
 
 ## Resources
