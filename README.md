@@ -3,8 +3,13 @@
 Click the open in Gitpod button above to launch a development environment
 with Python already installed and ready to go! 
 
-## Download Python
-Python can be downloaded and installed from https://www.python.org/
+## Resources
+https://www.python.org/ - Official site, download Python here  
+https://docs.python.org/3/ - Official documentation  
+https://docs.python.org/3/tutorial/interpreter.html - Python Interpreter  
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator - Numbers, strings, lists  
+https://docs.python.org/3/tutorial/controlflow.html - control flow  
+https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions - functions
 
 ## Running Python Interpreter
 The Python interpreter lets you enter 
